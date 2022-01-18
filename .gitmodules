@@ -1,0 +1,6 @@
+[submodule "npm-module-src-TeresaUll"]
+	path = npm-module-src-TeresaUll
+	url = https://github.com/ULL-ESIT-DMSI-1920/npm-module-src-TeresaUll.git
+[submodule "npm-module-test-TeresaUll"]
+	path = npm-module-test-TeresaUll
+	url = https://github.com/ULL-ESIT-DMSI-1920/npm-module-test-TeresaUll.git
